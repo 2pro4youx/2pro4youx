@@ -4,4 +4,4 @@
 - 🌱 I am currently learning AI and Python
 - 💞️ Would love guidance for studies and self improvement
 - 📖 Currently a Student at `VITB (CSE)` and `IITJ (AIDS)` 
-- 📫 How to reach contact me on dicsord / stoat / reddit / instagram `2pro4youx`
+- 📫 How to reach contact me on discord / stoat / reddit / instagram `2pro4youx`
