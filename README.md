@@ -7,13 +7,16 @@
 <!-- ⚡ DYNAMIC TYPING SVG -->
 <a href="https://github.com/2pro4youx">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+Initializing+System...+Welcome+to+2pro4youx's+Hub+%F0%9F%9A%80;Full-Stack+Developer+%7C+Tech+Enthusiast+%7C+Creator;Turning+caffeine+and+late-night+ideas+into+clean+code+%E2%9A%A1" alt="Typing SVG" />
+  
 </a>
 
 
 
 <br/>
 <!-- 📊 LIVE PROFILE BADGES -->
+
 <p align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=2pro4youx&label=PROFILE+VIEWS&color=7000FF&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/2pro4youx?tab=followers">
     <img src="https://img.shields.io/github/followers/2pro4youx?label=FOLLOWERS&style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117" alt="Followers" />
