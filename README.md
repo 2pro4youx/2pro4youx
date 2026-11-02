@@ -3,10 +3,12 @@
 <!-- 🌌 ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=2pro4youx&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20%E2%80%A2%20Creator%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=20" alt="Header Banner" />
 
+
 <!-- ⚡ DYNAMIC TYPING SVG -->
 <a href="https://github.com/2pro4youx">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%3E+Initializing+System...+Welcome+to+2pro4youx's+Hub+%F0%9F%9A%80;Full-Stack+Developer+%7C+Tech+Enthusiast+%7C+Creator;Turning+caffeine+and+late-night+ideas+into+clean+code+%E2%9A%A1" alt="Typing SVG" />
 </a>
+
 
 <br/>
 
