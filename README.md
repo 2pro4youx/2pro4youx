@@ -102,7 +102,7 @@ const developer: Profile = {
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/github/public-repos/2pro4youx?style=for-the-badge&logo=github&label=Public%20Repos&color=00f7ff&labelColor=0d1117" alt="Public Repos" />
+
   <img src="https://img.shields.io/github/commit-activity/y/2pro4youx/2pro4youx?style=for-the-badge&logo=git&label=Profile%20Commits&color=7000ff&labelColor=0d1117" alt="Commit Activity" />
   <img src="https://img.shields.io/badge/Rank-B+%20Hacker-ff007f?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117" alt="Rank" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Automation-00e676?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0d1117" alt="Focus" />
