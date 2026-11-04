@@ -62,7 +62,7 @@ const developer: Profile = {
     "Competitive Gaming & High-FPS Edits 🎮",
     "Automation & AI Workflows 🤖"
   ],
-  motto: "Why do it manually in 5 minutes when I can spend 5 hours automating it?"
+  motto: "Why do it manually in 5 minutes when I can spend 5 hours automating it :)"
 };
 ```
 
